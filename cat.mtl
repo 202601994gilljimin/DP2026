@@ -1,0 +1,65 @@
+﻿newmtl WhiteFur
+Kd 0.9500 0.9500 0.9600
+Ka 0.1 0.1 0.1
+Ks 0.3 0.3 0.3
+Ns 30
+d 1.0000
+illum 2
+
+newmtl TabbyDark
+Kd 0.3200 0.2800 0.2500
+Ka 0.1 0.1 0.1
+Ks 0.3 0.3 0.3
+Ns 30
+d 1.0000
+illum 2
+
+newmtl TabbyLight
+Kd 0.4800 0.4200 0.3800
+Ka 0.1 0.1 0.1
+Ks 0.3 0.3 0.3
+Ns 30
+d 1.0000
+illum 2
+
+newmtl InnerEarPink
+Kd 0.9600 0.7200 0.7800
+Ka 0.1 0.1 0.1
+Ks 0.3 0.3 0.3
+Ns 30
+d 1.0000
+illum 2
+
+newmtl PinkJelly
+Kd 0.9300 0.4800 0.6000
+Ka 0.1 0.1 0.1
+Ks 0.3 0.3 0.3
+Ns 30
+d 1.0000
+illum 2
+
+newmtl EyeDark
+Kd 0.0800 0.0700 0.0700
+Ka 0.1 0.1 0.1
+Ks 0.3 0.3 0.3
+Ns 30
+d 1.0000
+illum 2
+
+newmtl EyeSparkle
+Kd 1.0000 1.0000 1.0000
+Ka 0.1 0.1 0.1
+Ks 0.3 0.3 0.3
+Ns 30
+d 1.0000
+illum 2
+Ke 0.9000 0.9000 0.9000
+
+newmtl Whisker
+Kd 0.9800 0.9800 0.9800
+Ka 0.1 0.1 0.1
+Ks 0.3 0.3 0.3
+Ns 30
+d 1.0000
+illum 2
+
